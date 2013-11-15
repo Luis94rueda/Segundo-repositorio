@@ -93,6 +93,8 @@ print mi_var
 
 #Tuplas
 
+print "Aqui termina el archivo"
+
 
 
 
